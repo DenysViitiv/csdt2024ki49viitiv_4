@@ -1,5 +1,7 @@
 # csdt2024ki49viitiv_4
 
+CSAD
+
 // description
 
 Опис до мого проекту:
